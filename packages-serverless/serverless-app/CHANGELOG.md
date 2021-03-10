@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.8.10](https://github.com/midwayjs/midway/compare/v2.8.9...v2.8.10) (2021-03-09)
+
+
+### Bug Fixes
+
+* serverless app layers support ([#892](https://github.com/midwayjs/midway/issues/892)) ([45cd7fe](https://github.com/midwayjs/midway/commit/45cd7fee07223ebb00cf5132cf5b98f372dcdf91))
+
+
+
+
+
+## [2.8.9](https://github.com/midwayjs/midway/compare/v2.8.8...v2.8.9) (2021-03-08)
+
+**Note:** Version bump only for package @midwayjs/serverless-app
+
+
+
+
+
+## [2.8.8](https://github.com/midwayjs/midway/compare/v2.8.7...v2.8.8) (2021-03-06)
+
+
+### Bug Fixes
+
+* app proxy ([#886](https://github.com/midwayjs/midway/issues/886)) ([e8fba77](https://github.com/midwayjs/midway/commit/e8fba77ea9920a9bc0b48011f85d77717cab77fd))
+
+
+
+
+
 ## [2.8.7](https://github.com/midwayjs/midway/compare/v2.8.6...v2.8.7) (2021-03-04)
 
 **Note:** Version bump only for package @midwayjs/serverless-app
